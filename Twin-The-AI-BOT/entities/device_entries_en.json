@@ -1,0 +1,263 @@
+[
+  {
+    "value": "decorations",
+    "synonyms": [
+      "decorations"
+    ]
+  },
+  {
+    "value": "leak sensor",
+    "synonyms": [
+      "leak sensor",
+      "leak",
+      "wet",
+      "dry",
+      "wet or dry",
+      "moist",
+      "flooded",
+      "water",
+      "flood sensor",
+      "moisture sensor",
+      "leak sensor detected water",
+      "leakage sensor"
+    ]
+  },
+  {
+    "value": "smoke sensor",
+    "synonyms": [
+      "smoke sensor"
+    ]
+  },
+  {
+    "value": "washing machine",
+    "synonyms": [
+      "washing machine"
+    ]
+  },
+  {
+    "value": "motion sensor",
+    "synonyms": [
+      "motion sensor"
+    ]
+  },
+  {
+    "value": "oven bulb",
+    "synonyms": [
+      "oven bulb",
+      "oven bulbs"
+    ]
+  },
+  {
+    "value": "laptot",
+    "synonyms": [
+      "laptot"
+    ]
+  },
+  {
+    "value": "electric blanket",
+    "synonyms": [
+      "electric blanket"
+    ]
+  },
+  {
+    "value": "humidifier",
+    "synonyms": [
+      "humidifier"
+    ]
+  },
+  {
+    "value": "air conditioner",
+    "synonyms": [
+      "air conditioner"
+    ]
+  },
+  {
+    "value": "dishwasher",
+    "synonyms": [
+      "dishwasher"
+    ]
+  },
+  {
+    "value": "oven",
+    "synonyms": [
+      "oven",
+      "gas"
+    ]
+  },
+  {
+    "value": "window",
+    "synonyms": [
+      "window",
+      "windows"
+    ]
+  },
+  {
+    "value": "bottom lights",
+    "synonyms": [
+      "bottom lights"
+    ]
+  },
+  {
+    "value": "fan",
+    "synonyms": [
+      "fan"
+    ]
+  },
+  {
+    "value": "outlet",
+    "synonyms": [
+      "outlet",
+      "outlets"
+    ]
+  },
+  {
+    "value": "coffee pot",
+    "synonyms": [
+      "coffee pot",
+      "brew coffee",
+      "brewing coffee"
+    ]
+  },
+  {
+    "value": "microwave",
+    "synonyms": [
+      "microwave"
+    ]
+  },
+  {
+    "value": "table lamp",
+    "synonyms": [
+      "table lamp"
+    ]
+  },
+  {
+    "value": "computer",
+    "synonyms": [
+      "computer",
+      "laptop",
+      "pc",
+      "screen of my computer",
+      "screen of my laptop",
+      "screen of my pc",
+      "MacBook"
+    ]
+  },
+  {
+    "value": "tv",
+    "synonyms": [
+      "tv",
+      "television",
+      "tv set",
+      "tv sets",
+      "tv screen",
+      "TV",
+      "TVs"
+    ]
+  },
+  {
+    "value": "refrigerator",
+    "synonyms": [
+      "refrigerator"
+    ]
+  },
+  {
+    "value": "speakers",
+    "synonyms": [
+      "speakers",
+      "speaker",
+      "volume",
+      "volume level",
+      "loud"
+    ]
+  },
+  {
+    "value": "water valve",
+    "synonyms": [
+      "water valve",
+      "watering"
+    ]
+  },
+  {
+    "value": "humidity sensor",
+    "synonyms": [
+      "humidity sensor"
+    ]
+  },
+  {
+    "value": "camera",
+    "synonyms": [
+      "camera"
+    ]
+  },
+  {
+    "value": "coffee machine",
+    "synonyms": [
+      "coffee machine",
+      "coffee maker",
+      "coffee"
+    ]
+  },
+  {
+    "value": "door",
+    "synonyms": [
+      "door",
+      "doors"
+    ]
+  },
+  {
+    "value": "water cooker",
+    "synonyms": [
+      "water cooker"
+    ]
+  },
+  {
+    "value": "heating",
+    "synonyms": [
+      "heating",
+      "heater"
+    ]
+  },
+  {
+    "value": "multi sensor",
+    "synonyms": [
+      "multi sensor"
+    ]
+  },
+  {
+    "value": "pump circuit",
+    "synonyms": [
+      "pump circuit"
+    ]
+  },
+  {
+    "value": "temp sensor",
+    "synonyms": [
+      "temp sensor",
+      "climate",
+      "temperature sensor"
+    ]
+  },
+  {
+    "value": "christmas tree",
+    "synonyms": [
+      "christmas tree",
+      "christmas tree lights",
+      "christmas tree lightning",
+      "tree",
+      "tree lights"
+    ]
+  },
+  {
+    "value": "video player",
+    "synonyms": [
+      "video player",
+      "video"
+    ]
+  },
+  {
+    "value": "water heater",
+    "synonyms": [
+      "water heater"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f79faa72-f1cf-4b13-9821-3e5baa084275",
+  "name": "lock",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

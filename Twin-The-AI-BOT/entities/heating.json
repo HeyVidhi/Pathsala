@@ -1,0 +1,9 @@
+{
+  "id": "1efe95c8-d1b7-4805-9c83-eeaf8fba9670",
+  "name": "heating",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
