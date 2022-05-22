@@ -1,0 +1,103 @@
+[
+  {
+    "id": "b5e2167f-1613-4311-8443-23264f2eeac8",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " is so ",
+        "userDefined": false
+      },
+      {
+        "text": "loud",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25d7bf58-0267-4399-bf4b-57603beb8752",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume is too ",
+        "userDefined": false
+      },
+      {
+        "text": "loud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bba1f3b3-a49b-415d-92f3-46256f2e3181",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume is too ",
+        "userDefined": false
+      },
+      {
+        "text": "loud",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everywhere",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

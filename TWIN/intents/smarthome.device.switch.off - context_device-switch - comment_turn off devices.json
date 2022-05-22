@@ -1,0 +1,40 @@
+{
+  "id": "e8e9cb5d-1bc7-45e8-9763-74a76f11a716",
+  "name": "smarthome.device.switch.off - context:device-switch - comment:turn off devices",
+  "auto": true,
+  "contexts": [
+    "device-switch"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.switch.off",
+      "affectedContexts": [
+        {
+          "name": "check",
+          "lifespan": 3,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

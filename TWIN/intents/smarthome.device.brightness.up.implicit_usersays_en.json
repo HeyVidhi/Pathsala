@@ -1,0 +1,118 @@
+[
+  {
+    "id": "a94d71bb-bd7f-49aa-bf73-9cd883ec7980",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen is way too ",
+        "userDefined": false
+      },
+      {
+        "text": "dark",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bef77152-4603-4bee-93df-1317651c8bff",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen is too dark",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13acab70-e8a6-4fec-baa8-a96f0b880f5e",
+    "data": [
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": false
+      },
+      {
+        "text": " of our  ",
+        "userDefined": false
+      },
+      {
+        "text": "TV screens",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " brightness ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "userDefined": false
+      },
+      {
+        "text": " is not enough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c750205-98b2-477b-bb69-8dde17c5ab7c",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness level is too low",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "89c0849d-3398-4eaa-9287-f1d62e5d7ce0",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85bc0680-9b75-4d00-bd46-e6772123fd96",
+    "data": [
+      {
+        "text": "more ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": false
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fab9575c-4eec-4160-b132-a6b41ca027b4",
+    "data": [
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " more degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe6f006f-3811-4671-8277-ef8d0524eb57",
+    "data": [
+      {
+        "text": "35",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": false
+      },
+      {
+        "text": " grads more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d1e5900-fa3a-4251-8055-b8c192073031",
+    "data": [
+      {
+        "text": "turn it down by ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76f3c2d9-ad90-45e8-8e08-a768f7f82cab",
+    "data": [
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "108d2041-272d-430a-8b38-1d2e27087667",
+    "data": [
+      {
+        "text": "add more ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": false
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5867c68e-5fca-450f-994f-59f43d2ef416",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": false
+      },
+      {
+        "text": " more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ba6d348-a04c-4ac9-8916-cb440d8148a9",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "35",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": false
+      },
+      {
+        "text": " grad more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1f12fc0-a7c6-40fe-b980-56d11d0c951f",
+    "data": [
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points less",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79975a1f-f2af-4be8-8be8-e730f13a576d",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " less",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "239389ae-307a-4419-a0b4-3ef297e2eb88",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": " up by ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": false
+      },
+      {
+        "text": " degrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

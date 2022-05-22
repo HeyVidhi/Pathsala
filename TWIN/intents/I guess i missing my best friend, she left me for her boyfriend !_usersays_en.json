@@ -1,0 +1,25 @@
+[
+  {
+    "id": "bf9dd39b-6ff8-4de7-80f8-646e73b5dc1d",
+    "data": [
+      {
+        "text": "I guess i am missing my best friend, she ",
+        "userDefined": false
+      },
+      {
+        "text": "left",
+        "meta": "@condition",
+        "alias": "condition",
+        "userDefined": false
+      },
+      {
+        "text": " me for her boyfriend !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

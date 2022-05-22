@@ -1,0 +1,40 @@
+{
+  "id": "a63127d4-9206-4b79-b781-0a37117d4bf6",
+  "name": "smarthome.device.volume - context:device-volume - comment:down",
+  "auto": true,
+  "contexts": [
+    "device-volume"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.volume.down",
+      "affectedContexts": [
+        {
+          "name": "device-volume",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

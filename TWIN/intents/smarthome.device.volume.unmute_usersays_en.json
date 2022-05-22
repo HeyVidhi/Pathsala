@@ -1,0 +1,469 @@
+[
+  {
+    "id": "fd2c0bf4-0e68-41ac-9ae3-fb4955a43b6e",
+    "data": [
+      {
+        "text": "unmute ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3db1ab69-827f-42d4-907a-6cecdb4d9253",
+    "data": [
+      {
+        "text": "turn off mute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "217fafae-3d62-4983-b5e6-9490a770963e",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " mute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5202435-7085-44d4-b31a-97632c417ddb",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " mute mode for ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b6a30cb-2d00-4c1c-850a-728a42f6b63d",
+    "data": [
+      {
+        "text": "unmute ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf2a56a9-80f7-4ec9-96ba-65eca26d09a2",
+    "data": [
+      {
+        "text": "how do I unmute the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99d491b5-20fa-4771-8db7-73b22dfc30a0",
+    "data": [
+      {
+        "text": "turn mute ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56db8b83-cda2-4f76-9cf2-8216d6e9478b",
+    "data": [
+      {
+        "text": "turn mute mode off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e00c177-1c67-4b2b-b6c5-cb1f071fb362",
+    "data": [
+      {
+        "text": "unmute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7f78484-9d51-4307-81e9-b53ea402e354",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " mute for ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c67e23a5-407c-4d51-92cf-4ba3bc010c73",
+    "data": [
+      {
+        "text": "turn off",
+        "userDefined": false
+      },
+      {
+        "text": " the mute mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9546b10-d95c-4c12-96c1-6e31f06d4032",
+    "data": [
+      {
+        "text": "I would like to unmute the ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "bathroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c54232f3-1cdc-4cbd-9d6e-5f9a8739e37b",
+    "data": [
+      {
+        "text": "unmute the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63c6b7f0-4595-4e6e-b0e2-92ed8de2a1f7",
+    "data": [
+      {
+        "text": "unmute the sound",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d67b0200-12fa-49e2-966a-773faf3cf303",
+    "data": [
+      {
+        "text": "could you unmute the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b65a9898-b39b-458b-afcf-93919888f035",
+    "data": [
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " unmute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "725c024f-ea70-416a-b9ba-e878fa30a484",
+    "data": [
+      {
+        "text": "unmute the ",
+        "userDefined": false
+      },
+      {
+        "text": "garage",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c458d6fe-837f-4438-93c0-333f545a6aef",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " mute mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92977204-83df-4863-8265-0434f8dd36b5",
+    "data": [
+      {
+        "text": "I want to unmute the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "living room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " could you do that for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

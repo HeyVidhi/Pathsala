@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cb154141-b03d-4825-8945-00f9123c9d81",
+    "data": [
+      {
+        "text": "I am not feeling good !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "847cb581-d107-4d14-9a25-3aa909e5a419",
+    "data": [
+      {
+        "text": "I am felling a bit low !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

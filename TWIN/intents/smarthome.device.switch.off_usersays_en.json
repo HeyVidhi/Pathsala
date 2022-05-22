@@ -1,0 +1,1957 @@
+[
+  {
+    "id": "19762e75-dcb0-45c6-8c10-a6227bfd737b",
+    "data": [
+      {
+        "text": "turn the device off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a44d8268-cebc-4d93-9db9-4b4706fbc4ac",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecda70f1-1692-47c4-88da-e8b31dde76df",
+    "data": [
+      {
+        "text": "you should turn the device off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "549541d6-5bf0-4a1a-944f-7327bcdf0f3d",
+    "data": [
+      {
+        "text": "please turn off my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d892b5e-d802-49ef-9f37-875dfeb84947",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "dining room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d6f6964-e7af-4ef4-a577-31e3f1439959",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "conference room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dce2586-20d3-4c1e-a80c-d4b10a4490ca",
+    "data": [
+      {
+        "text": "switch off the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b83de741-17a7-41be-b35e-6ad8e5ce5ba6",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": false
+      },
+      {
+        "text": " devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23390db8-a832-4923-b9ce-b7d6bee95e6b",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0d44bb6-51bb-4756-b015-2f1f69581622",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5c53231-3a01-43e1-b27e-b9730e50b78a",
+    "data": [
+      {
+        "text": "turn the appliance off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcd2898c-8cd7-46df-8992-2d40ff2b1a29",
+    "data": [
+      {
+        "text": "turn my device off for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85799d0e-21e9-41c1-934b-cad4b924e938",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b19d948-3a61-4d88-8f3e-f1ae3c1a6f19",
+    "data": [
+      {
+        "text": "can you turn off appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f57688d-af36-4016-9482-461504ef0aab",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "bedroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18e7342a-0613-42cd-8220-b5849eebefe1",
+    "data": [
+      {
+        "text": "turn the device off for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "802cc10e-124b-4777-bfa1-873f83751eb8",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2c26645-25a2-46da-a6d2-a83d657f1b37",
+    "data": [
+      {
+        "text": "you should turn my device off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcf0b2e9-8eb9-4e7f-944d-d608880a3acf",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ddd5c95-b296-48cc-b32d-7fd7796d0b5b",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a2c2edb-4b34-4edd-9f9d-9996a837d023",
+    "data": [
+      {
+        "text": "no more ",
+        "userDefined": false
+      },
+      {
+        "text": "heat",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a24d3c6-4503-4424-b44f-39cf89bd01ca",
+    "data": [
+      {
+        "text": "I feel hot turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fab872a7-3bd6-4ddf-9baa-49a2ae462e52",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9015715f-9742-4f49-9caf-3059e4df00f4",
+    "data": [
+      {
+        "text": "turn off my ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "645065b5-ad5f-4436-b6a9-e353b66be1b9",
+    "data": [
+      {
+        "text": "turn the appliance off for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7cf7190-0ebf-4364-9b87-1de27a1a5d10",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d08c396-f4e3-45ea-9018-5514d79f4cc5",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc86e7a3-66e2-4b00-b100-8c05b0161ebf",
+    "data": [
+      {
+        "text": "I want to turn off device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb7b15b3-4288-4dde-ab4b-f04d10f665b4",
+    "data": [
+      {
+        "text": "turn off device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ac9670d-325c-4dc7-8d1b-ebf9a12617f0",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "microwave",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83055975-c1d1-421f-a177-5d80ed60dc6b",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "humidifier",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df769ada-1441-4a37-af80-ad5dfce7c97a",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "foyer",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d36f1ec7-1339-4211-9e92-f69ae729836b",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everywhere",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c87af404-21df-47f6-a528-e613a1d29768",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "refrigerator",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf2981cf-d250-47c0-a9a5-e0d90d3c5859",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water heater",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c40e3ddd-e51d-42cb-9ff8-74baec0145ee",
+    "data": [
+      {
+        "text": "can you turn off device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ad77e3a-c942-4a19-9626-084f7d667ce2",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa614515-4292-466a-a3db-11814d8543ff",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "pump circuit",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f331c67-5104-4c62-8ed4-b68cdf3dffc0",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0959c84-325e-491a-98fa-919a42a26ab7",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee pot",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a88f0eb7-ae20-45ee-9257-d133eff42360",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b75a457a-d713-4e66-bc0a-4b6ee4bef873",
+    "data": [
+      {
+        "text": "I need you to turn off appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84794a68-051d-4928-a2f6-4ff350165504",
+    "data": [
+      {
+        "text": "turn off appliance please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40ae1fcc-3492-443a-98d1-4fcc29f8d257",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "gas",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21e527e2-eff9-4913-b048-0b3ebe45b363",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dacab05-071e-4554-af81-506e208cd6c2",
+    "data": [
+      {
+        "text": "it\u0027s boiling here turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "heater",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a961a529-80de-48fe-87df-609b35d3a449",
+    "data": [
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "229a542f-ea4d-4682-8c4d-b8796a790023",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "common room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25dd639e-2148-4039-a443-0614a2855976",
+    "data": [
+      {
+        "text": "turn my device off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c91800bf-8550-4cd6-b944-38faddcf5a58",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "cloakroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fda70a76-a1ab-4616-8100-0f6b70164450",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c1f4a6-05a4-464f-9cf7-5dbedeb50f11",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water cooker",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da2eba38-e2ae-4dd3-9a96-5d0b69ab693c",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "PC",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad7efc3c-409a-4318-94a1-455b40b3955a",
+    "data": [
+      {
+        "text": "can you please turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee machine",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc038ac8-040e-4f08-ac90-f8cea462a85a",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "family room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd052858-b479-4b39-8868-008239eb5d0e",
+    "data": [
+      {
+        "text": "you should turn the appliance off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e085f0-94e7-48ca-a907-0bd91bcef6c8",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a4f530-e51e-4b99-a839-e44316493bf1",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": false
+      },
+      {
+        "text": " appliances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99a44df6-8800-4cb2-9033-4b3ddffdc6e2",
+    "data": [
+      {
+        "text": "I need you to turn off my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75ef657c-6f47-4f67-aaa5-32c31363daa8",
+    "data": [
+      {
+        "text": "turn off my device for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c66790d-a5d8-4d4f-a058-61aacc21aa5c",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4061dab7-bf91-4789-83c0-0c7ab9f7be0b",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "bathroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0086c422-af2a-4b0e-bc0d-d3fa167ccce3",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ee2f62d-14cb-4819-ab7a-ce6e2be1bf42",
+    "data": [
+      {
+        "text": "turn off appliance for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e25896f0-c89b-4864-8e03-d17bb40c45af",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "outlets",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "bathroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6453b99-5758-4e84-af57-44514ebc8ce9",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water heater",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bf5d789-a30a-46b8-9c55-77d23fe9bbea",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee machine",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "181f5f95-73f1-451f-89e9-9e5393048c80",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water heater",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e80c76d7-8646-4209-84fb-59e27ba7eebd",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f261005b-d659-4fdd-916e-59efb1e4243f",
+    "data": [
+      {
+        "text": "please turn off device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10434fc1-34cd-4d66-bd9c-e984a9d41c70",
+    "data": [
+      {
+        "text": "turn off",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioning",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f502d30-5f5e-452c-a400-b174664be59f",
+    "data": [
+      {
+        "text": "turn off device for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aee31df7-3f44-445e-b08d-ed65d9f6c146",
+    "data": [
+      {
+        "text": "hey smart things turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "oven bulb",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18d64afd-096f-47d8-986b-6b42120f8f69",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "everything",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7bdf53b-7fd5-482d-b7b3-087ec99ddcd7",
+    "data": [
+      {
+        "text": "switch off the device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b50b22f-48af-4735-840e-c200412d96e3",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "dishwasher",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "780421a5-93a8-47de-9ff5-e7f2e2b618b5",
+    "data": [
+      {
+        "text": "turn off my ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6739e5f2-2630-41a8-98f4-df89d233b85b",
+    "data": [
+      {
+        "text": "turn off my device please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5295637f-d03f-48fe-b590-83f46250de9a",
+    "data": [
+      {
+        "text": "I want to turn off appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee7b657b-881a-47db-b396-a5596503d0a9",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "things",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5814da70-6a01-45c8-9119-2f85d3821772",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "water heater",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "front room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d563ce9-30fa-4c4b-8680-4faa6a391bb0",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "dressing room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8450386f-6da2-4a67-ae84-5a660f486438",
+    "data": [
+      {
+        "text": "turn off the ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c392c4f1-08b7-4a62-815b-295c3e68e78a",
+    "data": [
+      {
+        "text": "I want to turn off my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02482bd-ac3f-49bf-bd69-86abd2a5ffa3",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20507f68-f45c-4625-b605-5970edcc76d2",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "heating",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6634fee2-f4d7-4cd9-af19-80c3b66d7c83",
+    "data": [
+      {
+        "text": "switch the device off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e71f6312-affd-4231-8f7e-fcbbf4c5fbb7",
+    "data": [
+      {
+        "text": "turn off appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c754a635-4e61-488b-89ba-537dc41c27a4",
+    "data": [
+      {
+        "text": "can you turn off my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9226ac12-52c2-47dc-83dd-e099567a743f",
+    "data": [
+      {
+        "text": "turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee pot",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c355262d-c862-4f8c-bd08-8b0c7b82f373",
+    "data": [
+      {
+        "text": "please turn off appliance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "337b80a6-9c70-4605-b243-4518db9dabfb",
+    "data": [
+      {
+        "text": "can you turn off ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57ae383c-037f-4f14-aeb1-68f247d880a9",
+    "data": [
+      {
+        "text": "turn off device please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d389af8b-e72a-4f10-9a36-d1b56f11b68c",
+    "data": [
+      {
+        "text": "turn off my ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a2ca9de-3288-45e8-a4b5-3d7b2098516f",
+    "data": [
+      {
+        "text": "I need you to turn off device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

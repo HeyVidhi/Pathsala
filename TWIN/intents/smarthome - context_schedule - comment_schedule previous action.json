@@ -1,0 +1,68 @@
+{
+  "id": "404fa6a8-6d3e-4ef0-930d-615b85792077",
+  "name": "smarthome - context:schedule - comment:schedule previous action",
+  "auto": true,
+  "contexts": [
+    "schedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#schedule.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b441c9c8-8e0b-4d0d-9a06-2af76d064b87",
+          "name": "recurrence",
+          "required": false,
+          "dataType": "@recurrence",
+          "value": "$recurrence",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e8af8059-ef3e-45eb-b4d2-f9df8eadaaa4",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

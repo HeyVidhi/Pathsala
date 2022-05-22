@@ -1,0 +1,45 @@
+{
+  "id": "80392d9d-9f60-4b7b-9daf-4f8e813f3b35",
+  "name": "smarthome.device.brightness.down - context:device-brightness - comment:not dim enough",
+  "auto": true,
+  "contexts": [
+    "device-brightness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.brightness.down",
+      "affectedContexts": [
+        {
+          "name": "room",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "device-brightness",
+          "lifespan": 3,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fff693ee-1dbe-491e-a099-398a5e5a7852",
+  "name": "smarthome.heating - context:heating - comment:change final grad",
+  "auto": true,
+  "contexts": [
+    "heating"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.heating.set",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "28dc21d3-99aa-4d1b-a0c5-d7dafd9da780",
+          "name": "final-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$final-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,575 @@
+[
+  {
+    "id": "0f0aa337-30fc-4c38-928a-50c291d19a09",
+    "data": [
+      {
+        "text": "tell me how do I mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume in the ",
+        "userDefined": false
+      },
+      {
+        "text": "bedroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5a44c86-7d60-4c2b-905d-9ac84382f1e0",
+    "data": [
+      {
+        "text": "mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume for me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b3f1a78-efc0-4b8b-bf8a-df959d8c8b33",
+    "data": [
+      {
+        "text": "mute my ",
+        "userDefined": false
+      },
+      {
+        "text": "bedroom",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "speakers",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81525db4-0817-4924-84b9-bef3af68b0bc",
+    "data": [
+      {
+        "text": "mute ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8307ed35-adfa-4f67-b052-4c532785220d",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "I",
+        "userDefined": false
+      },
+      {
+        "text": " mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae278a26-2124-41c5-8101-8d22771f2edb",
+    "data": [
+      {
+        "text": "sound on mute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ca5bb80-6223-40ac-bef1-e14273858730",
+    "data": [
+      {
+        "text": "I need to mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bca1f1c2-3604-4d68-b7c4-e9b96a7456ba",
+    "data": [
+      {
+        "text": "turn on mute mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fda99bb-b6db-4f66-8f4e-fd26f806f994",
+    "data": [
+      {
+        "text": "turn",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "off",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "phone",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5392861-06b8-4af3-86a3-5d0ea9f235eb",
+    "data": [
+      {
+        "text": "mute mode on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b463dd2a-f764-447d-8b98-7c2f17132b07",
+    "data": [
+      {
+        "text": "need ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "userDefined": false
+      },
+      {
+        "text": " mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "988ee1e7-3bad-4989-b7c0-7ab008c8f457",
+    "data": [
+      {
+        "text": "volume on mute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc5ff02a-91eb-4c51-a029-e929fee85099",
+    "data": [
+      {
+        "text": "I would like to mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81bcf7c9-2109-4d2a-a0cf-360006e540fe",
+    "data": [
+      {
+        "text": "mute the sound",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb355e95-69ae-4273-a872-b2ef93b728dd",
+    "data": [
+      {
+        "text": "I need to mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume could you do that for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5edf9399-374b-451e-826c-b38b6f40577a",
+    "data": [
+      {
+        "text": "sound ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " mute in the ",
+        "userDefined": false
+      },
+      {
+        "text": "living room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d9d8d49-a1da-4206-a104-0d02e2b6c21a",
+    "data": [
+      {
+        "text": "turn the mute mode on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "187afb95-66a7-40aa-8bc0-b72a859b534c",
+    "data": [
+      {
+        "text": "need ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "userDefined": false
+      },
+      {
+        "text": " mute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bad93f6-da57-46c2-8c83-399bdc1f3127",
+    "data": [
+      {
+        "text": "mute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c44c7449-3ce1-4e8b-b9f3-97159f2a4078",
+    "data": [
+      {
+        "text": "mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "radio",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " volume please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8702dbba-4dde-4222-aac3-61eeda4e1b40",
+    "data": [
+      {
+        "text": "can",
+        "userDefined": false
+      },
+      {
+        "text": " you mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df8ab185-0edb-4ffa-998e-4d7e09b1fc87",
+    "data": [
+      {
+        "text": "mute ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc7fde4e-e9e3-4bf2-9bb8-f0f88cc43356",
+    "data": [
+      {
+        "text": "mute this song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2fd5955-e98a-43cf-acdb-3fe9d13eed30",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": false
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "userDefined": false
+      },
+      {
+        "text": " mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57cc3388-6b23-4b0b-a8b0-601bad525173",
+    "data": [
+      {
+        "text": "mute the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "967d8eba-be57-44ce-8ffa-3b47b16ca136",
+    "data": [
+      {
+        "text": "also the ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4240cf3d-f7be-4224-903a-3d1c3b5dcb8c",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "153eedd2-aba1-4baa-ba54-7c967052b1c5",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "tv",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf4340fa-860c-4843-91a7-14e751516935",
+    "data": [
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "997206c3-07fc-4620-88fc-629fd8a906be",
+    "data": [
+      {
+        "text": "and the ",
+        "userDefined": false
+      },
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " too please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b0fe38-5a88-4683-b58a-a6192affdfa6",
+    "data": [
+      {
+        "text": "video player",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58d08c2a-1495-4654-adbe-368c5458f2f6",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "thermostat",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

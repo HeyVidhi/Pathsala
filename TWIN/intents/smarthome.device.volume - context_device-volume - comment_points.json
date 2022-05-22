@@ -1,0 +1,63 @@
+{
+  "id": "34fb0668-461d-4721-99dc-0ee4423ac65e",
+  "name": "smarthome.device.volume - context:device-volume - comment:points",
+  "auto": true,
+  "contexts": [
+    "device-volume"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#device-volume.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "992d7dff-ea3e-460b-83c2-b91b9b5fcc8c",
+          "name": "final-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$final-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "578750c8-2882-4a85-8f0c-9f304c61a28f",
+          "name": "change-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$change-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

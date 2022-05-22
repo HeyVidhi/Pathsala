@@ -1,0 +1,55 @@
+{
+  "id": "1d5735ca-c155-42d5-8034-3bb2dffad285",
+  "name": "smarthome.device.volume.check - context:volume-check - comment:room",
+  "auto": true,
+  "contexts": [
+    "volume-check"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "smarthome.device.volume.check",
+      "affectedContexts": [
+        {
+          "name": "volume-check",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "78e1f0c9-778a-433a-819e-77a7a13a930b",
+          "name": "room",
+          "required": false,
+          "dataType": "@room",
+          "value": "$room",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
