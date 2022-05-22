@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Twin</title>
+
+    <link rel="stylesheet" href="./styles/twin.css" />
+  </head>
+  <body>
+    <header>
+      <p>
+        <a href="index.html" style="text-decoration: none; color: #f00"
+          >Pathsala</a
+        >
+      </p>
+      <nav>
+        <ul>
+          <li><a href="feeds.html">Feeds</a></li>
+          <li><a href="learn.html">Learn Courses</a></li>
+          <li><a href="find.html">Find Books</a></li>
+          <li><a href="twin.html">Twin</a></li>
+          <li><a href="profile.html">Profile</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="bot">
+      <h1>Twin : Your AI Buddy</h1>
+      <br />
+      <br />
+      <iframe
+        width="350"
+        height="430"
+        allow="microphone;"
+        src="https://console.dialogflow.com/api-client/demo/embedded/dea8e7c4-d563-45a4-92f5-c5d3f9b11705"
+      ></iframe>
+    </section>
+
+    <script>
+      let currentUrl = window.location.href;
+      document.querySelectorAll("nav ul li a").forEach((p) => {
+        if (currentUrl.indexOf(p.getAttribute("href")) !== -1) {
+          p.classList.add("active");
+        }
+      });
+    </script>
+  </body>
+</html>

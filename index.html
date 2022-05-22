@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+        integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+        crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles/style.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Arbutus' rel='stylesheet'>
+    <title>Pathsala</title>
+
+    <style>
+        * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  background-color: #20b2aa;
+  width: 100%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+header > p {
+  color: #f00;
+  font-size: 2em;
+  font-weight: bolder;
+  flex: 1;
+  text-align: center;
+  font-family: Cambria, sans-serif;
+}
+
+header > nav {
+  height: 100%;
+  flex: 3;
+}
+
+header > nav > ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+header > nav > ul > li {
+  list-style: none;
+  font-size: 1.5em;
+}
+
+nav > ul > li > a {
+  text-decoration: none;
+  color: #fff;
+  font-family: Cambria, sans-serif;
+}
+
+nav > ul > li > a.active {
+  color: #0f0;
+  font-weight: bold;
+  padding: 20%;
+  background-color: #fff;
+  border-radius: 10%;
+}
+    </style>
+</head>
+
+<body>
+    <header>
+        <p>Pathsala
+        </p>
+        <nav>
+          <ul>
+            <li><a href="feeds.html">Feeds</a></li>
+            <li><a href="learn.html">Learn Courses</a></li>
+            <li><a href="find.html">Find Books</a></li>
+            <li><a href="twin.html">Twin</a></li>
+            <li><a href="profile.html">Profile</a></li>
+          </ul>
+        </nav>
+      </header>
+    <!--Navbar-->
+    <nav title="Navbar" class="navbar fixed-top navbar-expand-lg navbar-light ">
+        <div class="container-fluid">
+            <!--Toggle Button-->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+               
+                
+                <center>
+                <button type="button" class="btn btn1" data-bs-toggle="modal" data-bs-target="#LoginModal">
+                    Login
+                </button>
+                </center>
+          
+                <button type="button" class="btn btn1" data-bs-toggle="modal" data-bs-target="#SignupModal">
+                    Sign Up
+                </button>
+            </div>
+        </div>
+    </nav>
+    <!-- Modal -->
+    <div class="modal fade" id="LoginModal" tabindex="-1" aria-labelledby="LoginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header text-dark bg1">
+                    <h5 class="modal-title" id="LoginModalLabel">Login</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-dark bg1">
+                    <!--Form-->
+                    <form>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label">Email
+                                address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp">
+                            <div id="emailHelp" class="form-text">We'll never share your email
+                                with anyone else.</div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="exampleInputPassword1">
+                        </div>
+                        <div class="mb-3 form-check">
+                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                            <label class="form-check-label" for="exampleCheck1">Check me
+                                out</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Submit</button>
+                    </form>
+                </div>
+                <div class="modal-footer text-dark bg1">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="SignupModal" tabindex="-1" aria-labelledby="SignupModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header text-dark bg1">
+                    <h5 class="modal-title" id="SignupModalLabel">Sign Up</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-dark bg1">
+                    <form>
+                        <div class="mb-3">
+                            <label for="exampleInputEmail1" class="form-label">Email
+                                address</label>
+                            <input type="email" class="form-control" id="exampleInputEmail2"
+                                aria-describedby="emailHelp">
+                            <div id="emailHelp2" class="form-text">We'll never share your email
+                                with anyone else.</div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="exampleInputPassword2">
+                        </div>
+                        <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Confirm
+                                Password</label>
+                            <input type="password" class="form-control" id="exampleInputPassword3">
+                        </div>
+                        <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">Submit</button>
+                    </form>
+                </div>
+                <div class="modal-footer text-dark bg1">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div id="carouselExampleCaptions" class="carousel slide carousel-fade" title="Carousel" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="Images/carousel1.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="Images/carousel2.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="Images/carousel3.jpg" style="background-image: cover;" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <!--FEATURES-->
+
+    <div class="descandfeat">
+        <div class="container px-4 py-3 just" id="hanging-icons">
+            <center>
+                <h2 class="pb-2 border-bottom">What is Pathsala</h2>
+                <p style="padding-top:1rem">Pustak-Shala is an integrated platform to share books and educational resource among students, we apply this community based approach of harvesting the sense of sharing not just resources but a light if connecting knowledge.                                                              
+                                            <br><br> <strong>"Let's Learn Together, Let's Share Together"</strong></p>
+            </center>
+        </div>
+        <div class="container px-4 py-5" id="hanging-icons">
+            <center>
+                <h2 class="pb-2 border-bottom">Key Features</h2>
+            </center>
+
+
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+                <!--FIRST FEATURE-->
+                <div class="col d-flex align-items-start" style="padding-left: 30px;padding-right: 30px;">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <i class="fas fa-cog"
+                            style="font-size: 90px; background-color: white; color: rgb(80, 80, 80);"></i>
+                    </div>
+                    <div>
+                        <h2>Educational Network</h2>
+                        <p>At Pathsala we provide you with wonderful resources of learning and a place where you can compete with the pleople doinng well inn the field. We provide wonderful resources and mentorship to help you ace your journey.</p>
+                    </div>
+                </div>
+
+                <div class="col d-flex align-items-start" style="padding-left: 30px;padding-right: 30px;">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+
+                        <i class="fas fa-drafting-compass"
+                            style="font-size: 90px; background-color: white; color: rgb(80, 80, 80);"></i>
+                    </div>
+                    <div>
+                        <h2>Uniqueness</h2>
+                        <p>We have this aim of harvasting love and care for the fellow human-beings and beat this gap of providing equal as well as quality education to the people. Apart from this we are solving the issue of deforestation. 
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col d-flex align-items-start" style="padding-left: 30px;padding-right: 30px;">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <i class="far fa-clock"
+                            style="font-size: 90px; background-color: white; color: rgb(80, 80, 80);"></i>
+                    </div>
+                    <div>
+                        <h2>Hate-Free Place</h2>
+                        <p>Though with the help of AssemblyAI, we are able to provide you with solutions and learning materials that are not propoganda oriented and are free from any hatred words, apart from this we have a smart AI bot TWIN to talk to you in the time of needs.             
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+    <!--Images-->
+
+    <div class="container pt-5" id="custom-cards">
+        <center>
+            <h2 class="pb-2 border-bottom">What we offer</h2>
+        </center>
+
+        <div class="row row-cols-3 align-items-stretch py-5">
+            <div class="col">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: url(IMAGES/someimages1.jpg);">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Share-Plaace
+                        </h2>
+                        <p>Share your books and educational resources among all</p>
+                        <ul class="d-flex list-unstyled mt-auto">
+                            <li class="me-auto">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: url(IMAGES/someimage3.jpg);">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">TWIN</h2>
+                        <p>Your AI Buddy to help you to fulfil your educational needs</p>
+                        <ul class="d-flex list-unstyled mt-auto">
+                            <li class="me-auto">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: url(IMAGES/someimages2.jpeg);">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Learning Platform</h2>
+                        <p>Provides you resources to learn and explore</p>
+                        <ul class="d-flex list-unstyled mt-auto">
+                            <li class="me-auto">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--FOOTER-->
+
+    <!--Main div-->
+    <div class="main">
+        <div class="share">
+            <br><br>
+            <p>SHARE THIS PAGE</p>
+            <!--Icons-->
+            <div class="icons">
+                <button type="button" class="btn btn-outline-success" title="Share this page on Facebook New tab"><i
+                        class="fab fa-facebook-f"></i></button>
+                <button type="button" class="btn btn-outline-success" title="Share this page on Twitter New tab"><i
+                        class="fab fa-twitter"></i></button>
+                <button type="button" class="btn btn-outline-success" title="Share this page on Pinterest New tab"><i
+                        class="fab fa-pinterest-p"></i></button>
+                <button type="button" class="btn btn-outline-success" title="Share this page on Linkedin New tab"><i
+                        class="fab fa-linkedin-in"></i></button>
+                <button type="button" class="btn btn-outline-success" title="Share this page on Email New tab"><i
+                        class="fa fa-envelope"></i></button>
+                <button type="button" class="btn btn-outline-success" title="View more social networks"><i
+                        class="fas fa-ellipsis-h"></i></button>
+                <br><br><br>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="links">
+                <br>
+                <p>Pathsala<br> Features | About | Testimonials | Contact Us <strong><br> Ley's Make this world a better place together !</p></strong>
+                <p class="cpryt"><center>
+                    &copy; Copyright 2022 | <a>All Rights Reserved to Team Pathsala</a></center>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+        integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3cccciwWAwPtgFTxbJ8NT4GN1R8p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+        crossorigin="anonymous"></script>
+
+</body>
+
+
+</html>

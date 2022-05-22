@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Feeds</title>
+
+    <link rel="stylesheet" href="./styles/feeds.css" />
+  </head>
+  <body>
+    <header>
+      <p>
+        <a href="index.html" style="text-decoration: none; color: #f00"
+          >Pathsala</a
+        >
+      </p>
+      <nav>
+        <ul>
+          <li><a href="feeds.html">Feeds</a></li>
+          <li><a href="learn.html">Learn Courses</a></li>
+          <li><a href="find.html">Find Books</a></li>
+          <li><a href="twin.html">Twin</a></li>
+          <li><a href="profile.html">Profile</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="tech-today-container">
+      <p>Tech Today</p>
+      <div class="tech-container">
+        <p>
+          Over 6,000 new computer viruses are created and released every month. 90% of emails contain some form of malware!
+        </p>
+      </div>
+      <div class="tech-container">
+        <p>
+          The Firefox logo isn’t a fox… it’s a red panda!
+        </p>
+      </div>
+     <div class="tech-container">
+        <p>
+          The Firefox logo isn’t a fox… it’s a red panda!
+        </p>
+      </div>
+       <div class="tech-container">
+        <p>
+          Samsung is 38 years and 1 month older than Apple.
+        </p>
+      </div>
+       <div class="tech-container">
+        <p>
+          One Petabyte (PB) = 1024 (TB). To put this in perspective, a 50PB hard drive could hold the entire written works of mankind from the beginning of recorded history in all languages.
+        </p>
+      </div>
+    </section>
+
+    <main>
+      <section class="search-container">
+        <form>
+          <input
+            type="text"
+            placeholder="Share some good thought ..."
+            name="find"
+          />
+          <button type="submit">Share</button>
+        </form>
+      </section>
+      <section class="contribution-container">
+        <div class="contributor">
+          <p>
+            An upcomingh book-fair is going to take place at the new-house learning palace.
+          </p>
+          <button>Check Out</button>
+        </div>
+        <div class="contributor">
+          <p>
+            Course-Era launched new range of courses for the elementry courses for the student learning remote across the globe.
+          </p>
+          <button>Check Out</button>
+        </div>
+        <div class="contributor">
+          <p>
+            Vidhi and mridul, won the {N} HacksV||, :-)
+          </p>
+          <button>Check Out</button>
+        </div>
+        <div class="contributor">
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores
+            quae eaque neque. Illo, deleniti modi! Repudiandae nisi, quidem,
+            ipsam eos totam voluptate possimus voluptatum, ducimus quasi natus
+            accusantium quas molestiae?
+          </p>
+          <button>Check Out</button>
+        </div>
+        <div class="contributor">
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores
+            quae eaque neque. Illo, deleniti modi! Repudiandae nisi, quidem,
+            ipsam eos totam voluptate possimus voluptatum, ducimus quasi natus
+            accusantium quas molestiae?
+          </p>
+          <button>Check Out</button>
+        </div>
+        <div class="contributor">
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores
+            quae eaque neque. Illo, deleniti modi! Repudiandae nisi, quidem,
+            ipsam eos totam voluptate possimus voluptatum, ducimus quasi natus
+            accusantium quas molestiae?
+          </p>
+          <button>Check Out</button>
+        </div>
+      </section>
+    </main>
+
+    <section class="topics-container">
+      <p>Course Recommendation</p>
+      <ul>
+        <li>Course 1</li>
+        <li>Course 2</li>
+        <li>Course 3</li>
+        <li>Course 4</li>
+        <li>Course 5</li>
+      </ul>
+    </section>
+
+    <script>
+      let currentUrl = window.location.href;
+      document.querySelectorAll("nav ul li a").forEach((p) => {
+        if (currentUrl.indexOf(p.getAttribute("href")) !== -1) {
+          p.classList.add("active");
+        }
+      });
+    </script>
+  </body>
+</html>

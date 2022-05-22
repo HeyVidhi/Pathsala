@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profile</title>
+
+    <link rel="stylesheet" href="./styles/profile.css" />
+
+    <style>
+      *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+  }
+  
+  .max-width{
+      max-width: 1300px;
+      padding: 0 80px;
+      margin-top: 5%;
+  }
+
+  body{
+    background: #555;
+    color: #fff;
+    font-family: "Ubuntu", sans-serif;
+  }
+  
+  h1{
+    font-size: 70px;
+    font-weight: 600;
+  }
+  
+  .para{
+    display: block;
+    width: 100%;
+  }
+  
+  h4,
+  p{
+      font-size: 20px;
+      margin: 5px 0px;
+  }
+  
+  /*columns styling*/
+  .col{
+      display: inline-block;
+      margin-top: 50px;
+  }
+  
+  .left{
+    text-align: left;
+    width: 70%
+  }
+  
+  .profile img{
+      height: 250px;
+      width: 250px;
+      border-radius: 6px;
+  }
+  
+  h2{
+    text-align: justify;
+    padding-bottom: 15px;
+  }
+  
+  .content{
+      text-align: justify;
+  }
+  
+  .right{
+    width: 28%;
+  }
+  
+  .birthday{
+    margin-bottom: 20px;
+  }
+  
+  .right .name{
+      display: inline-block;
+      font-size: 25px;
+      font-weight: 600;
+      margin-bottom: 10px;
+  }
+  
+  .name p{
+    margin-top: 10px;
+  }
+  
+  .pic{
+    display: inline-block;
+  }
+  
+  .pic img{
+      height: 80px;
+      width: 80px;
+      border-radius: 6px;
+  }
+  
+  
+  .right p{
+      text-align: right;
+  }
+  
+  /*button styling*/
+  .button{
+      height: 47px;
+      width: 170px;
+      margin-top: 20px;
+  }
+  
+  .button button{
+      height: 100%;
+      width: 100%;
+      border: 2px solid #2600ff;
+      background: #5ac74b;
+      color: #fff;
+      font-size: 20px;
+      font-weight: 500;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+  }
+  
+  .button button:hover{
+      color: #ffffff;
+      background: none;
+  }
+  
+  
+  i{
+      font-size: 25px;
+      margin-left: 35px;
+      justify-content: space-between;
+  }
+  
+  /*footer section styling*/
+  footer{
+      font-family: 'Poppins', sans-serif;
+      margin-top: 25px;
+      background: #000;
+      padding: 15px 25px;
+      color: #fff;
+  }
+  </style>
+  </head>
+  <body>
+    <header>
+      <p>
+        <a href="index.html" style="text-decoration: none; color: #f00"
+          >Pathsala</a
+        >
+      </p>
+      <nav>
+        <ul>
+            <li><a href="feeds.html">Feeds</a></li>
+            <li><a href="learn.html">Learn Courses</a></li>
+            <li><a href="find.html">Find Books</a></li>
+            <li><a href="twin.html">Twin</a></li>
+            <li><a href="profile.html">Profile</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="max-width body">
+      <div class="col left">
+        <div class="profile">
+          <img src = "images/ankita.png">
+          <div class="content">
+            <h2>Fuggy Bhardwaj</h2>
+            <h4>Class 12th Student</h4>
+            <p>California, USA</p>
+          </div>
+        </div>
+
+
+        <div class="card-body pt-0 pt-md-4">
+            <div class="row">
+              <div class="col">
+                <div class="card-profile-stats d-flex justify-content-center mt-md-5">
+                  <div>
+                    <span class="heading">51</span>
+                    <span class="description">Books Donated</span>
+                  </div>
+                  <div>
+                    <span class="heading">10</span>
+                    <span class="description">Notes Shared</span>
+                  </div>
+                  <div>
+                    <span class="heading">89</span>
+                    <span class="description">Course Learned</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+
+        <div class="button"> 
+          <button><a href="updateprofilepage.html" class="button">Edit profile</a></button>
+        </div>
+      </div>
+
+      <div class="col right">
+        <div class="card">
+          <h2>Connections</h2>
+          <div class="birthday">
+            <div class="pic">
+              <img src="images/vinamra.jpg" alt="">
+            </div>
+            <div class="name">
+              <p>Vinamra Sharma</p>
+              <p>(100+ Donations)</p>
+            </div>
+          </div>
+
+          <div class="birthday">
+            <div class="pic">
+              <img src="images/2.jpg" alt="">
+            </div>
+            <div class="name">
+              <p>Mridul Bhardwaj</p>
+              <p>(80+ Donation)</p>
+            </div>
+          </div>
+
+          <div class="birthday">
+            <div class="pic">
+              <img src="images/ankita.png" alt="">
+            </div>
+            <div class="name">
+              <p>Vidhi Sharma</p>
+              <p>(50+ Donation)</p>
+            </div>
+          </div>
+
+          <div class="birthday">
+            <div class="pic">
+              <img src="images/ankita.png" alt="">
+            </div>
+            <div class="name">
+              <p>Alex Jr. Qeen</p>
+              <p>(10+ Donations)</p>
+            </div>
+          </div>
+
+          <div class="button">
+            <button><a href="bday.html" class="button">Expand</a></button>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <center><a href="#">
+	      <i class="fa fa-twitter"></i></a>
+      <a href="#"><i class="fa fa-linkedin-in"></i></a>
+      <a href="#"><i class="fa fa-facebook"></i></a>
+      <a href="#"><i class="fa fa-instagram"></i></a>
+      <div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<ul class="sci">
+						<p class="cpryt"><center>
+						&copy; Copyright 2022 | <a>All Rights Reserved to Team Pathsala</a></center>
+					</p>
+				</div>
+			</div>
+
+    </footer>
+
+
+    <script>
+      let currentUrl = window.location.href;
+      document.querySelectorAll("nav ul li a").forEach((p) => {
+        if (currentUrl.indexOf(p.getAttribute("href")) !== -1) {
+          p.classList.add("active");
+        }
+      });
+    </script>
+  </body>
+</html>
