@@ -1,0 +1,9 @@
+{
+  "id": "e582f7fd-7ae8-41b6-91bd-6f5d018e30f6",
+  "name": "lights",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
