@@ -1,0 +1,127 @@
+[
+  {
+    "id": "0040f063-8ae3-4f8e-847c-49a1241afb73",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "userDefined": false
+      },
+      {
+        "text": " hearing ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sound",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e2aba2b-5bc7-4749-83a4-a5b0ca2b0648",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " sound is disturbing ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everywhere",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the house",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26e91168-4184-41ce-9285-b67685286e81",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device-volume",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " sound is disturbing ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

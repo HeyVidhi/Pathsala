@@ -1,0 +1,95 @@
+{
+  "id": "0a29884e-3066-45f3-b228-646fb970ece1",
+  "name": "smarthome.device.volume.up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.volume.up",
+      "affectedContexts": [
+        {
+          "name": "device-volume",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bc506681-626d-44ae-8bd1-4387fb8ef7a0",
+          "name": "device",
+          "required": false,
+          "dataType": "@device-volume",
+          "value": "$device",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a7bcef2a-8e15-43ca-a651-957f99ee6c42",
+          "name": "room",
+          "required": false,
+          "dataType": "@room",
+          "value": "$room",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e7fe76ff-d76e-4d2b-8ca2-db1c9873635e",
+          "name": "change-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$change-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "17d1961c-5927-4ef2-a102-9a6b5fa34939",
+          "name": "final-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$final-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

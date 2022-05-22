@@ -1,0 +1,34 @@
+{
+  "id": "f754ca5c-168f-4642-a343-71f296f9362d",
+  "name": "smarthome.device.switch.check.off - context:check - comment:check if device is off",
+  "auto": true,
+  "contexts": [
+    "check"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.switch.check.off",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

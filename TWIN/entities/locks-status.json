@@ -1,0 +1,9 @@
+{
+  "id": "d9c349f7-b651-4152-9658-f775414c9fdf",
+  "name": "locks-status",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

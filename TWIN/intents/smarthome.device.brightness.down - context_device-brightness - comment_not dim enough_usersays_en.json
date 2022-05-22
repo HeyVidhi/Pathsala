@@ -1,0 +1,211 @@
+[
+  {
+    "id": "95eae271-5f7c-4c46-b546-4e58362ebb7b",
+    "data": [
+      {
+        "text": "it is bright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b33ed6b-249d-4e3c-ab2f-1a40463771ed",
+    "data": [
+      {
+        "text": "too ",
+        "userDefined": false
+      },
+      {
+        "text": "bright",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67b81a6e-cead-408a-b362-398cbcd2ef3a",
+    "data": [
+      {
+        "text": "it\u0027s really bright in here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bec6818c-e31c-45bd-9b96-27535228bb8b",
+    "data": [
+      {
+        "text": "too ",
+        "userDefined": false
+      },
+      {
+        "text": "bright",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "783ae22d-8d09-47d5-b5b9-1bf2892b0212",
+    "data": [
+      {
+        "text": "it is bright here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0ed6b4f-2e6c-4021-bb87-c4b3bf22428b",
+    "data": [
+      {
+        "text": "less",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad9f11a3-d049-4e18-9dda-e801f658a663",
+    "data": [
+      {
+        "text": "it",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "really",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06d5ca67-decb-45ee-a4d6-8baea55c7885",
+    "data": [
+      {
+        "text": "still bright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a711fc3-fda1-4f5c-8f26-fe4b2b46b832",
+    "data": [
+      {
+        "text": "still too bright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aede9b95-a9dd-42ea-acc7-0fc3431fd4d1",
+    "data": [
+      {
+        "text": "too bright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caac69b1-b6d3-404b-bd9d-c0c63488e411",
+    "data": [
+      {
+        "text": "it\u0027s too bright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c383730-71b7-4c3b-b207-ff3f78739158",
+    "data": [
+      {
+        "text": "not dim enough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce18ed34-5ae1-442f-a90c-76f5ac15cae3",
+    "data": [
+      {
+        "text": "a little less",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "4cd207f0-9028-49f0-8bac-f782619bf78a",
+    "data": [
+      {
+        "text": "is the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " dark in the ",
+        "userDefined": false
+      },
+      {
+        "text": "living room",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8720b6e-9cad-4ef6-a31a-e622dc34cc6a",
+    "data": [
+      {
+        "text": "I want you to check if the ",
+        "userDefined": false
+      },
+      {
+        "text": "decorations",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": false
+      },
+      {
+        "text": " are bright enough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a19e346-bd44-4695-bdf6-11382c92bf2c",
+    "data": [
+      {
+        "text": "is my ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen too dark",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5cd812f-8604-4a39-8376-5d9976f10445",
+    "data": [
+      {
+        "text": "are the ",
+        "userDefined": false
+      },
+      {
+        "text": "decorations",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " bright enough ",
+        "userDefined": false
+      },
+      {
+        "text": "everywhere",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

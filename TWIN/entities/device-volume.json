@@ -1,0 +1,9 @@
+{
+  "id": "3fc4139e-d64b-4052-a7bb-b51ccbc211a9",
+  "name": "device-volume",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

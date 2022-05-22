@@ -1,0 +1,34 @@
+{
+  "id": "6b5925b1-1004-4130-adf8-10161f6a514a",
+  "name": "smarthome.device.volume - context:device-volume - comment:up",
+  "auto": true,
+  "contexts": [
+    "device-volume"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.volume.up",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

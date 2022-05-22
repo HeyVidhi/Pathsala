@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "c0b7333d-b3bd-4d4e-9700-db23e5426f86",
+    "data": [
+      {
+        "text": "turn up the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27858dfe-d1a6-447f-a5fa-38e9ae3563be",
+    "data": [
+      {
+        "text": "brightness up for ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " percents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acb84e75-9338-43c1-81a8-8cb152c91d99",
+    "data": [
+      {
+        "text": "increase brightness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e296e130-639b-4c89-8117-f3d40bc7f0e9",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "userDefined": true
+      },
+      {
+        "text": " up by ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f0ba484-022f-4054-9977-f0462a3bc329",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness up till ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "205c98ca-40b8-4a5d-99b6-f9a429ff1bc8",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness up till ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb006351-a42c-4475-854a-5334249e30c2",
+    "data": [
+      {
+        "text": "brightness up till ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "632900ad-ec0c-4fec-a070-7545d02c5714",
+    "data": [
+      {
+        "text": "make the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen brighter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24cbac2b-55ca-4768-8725-7fe2e03b437c",
+    "data": [
+      {
+        "text": "I need brighter ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d17e690d-a019-45fe-929a-3f77f764954c",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " level up by ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63c8b5c7-57da-40a7-8dbc-69102a59ffbb",
+    "data": [
+      {
+        "text": "turn up the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ceab8e5-473e-41f8-a4aa-3d2c78fbacfb",
+    "data": [
+      {
+        "text": "turn up ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness till ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9fa9d69-dd42-4f4e-8373-914579658b85",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen level up till ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36237037-4d72-44fc-957b-8b23286507c1",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " percents brighter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f20cade-e55b-44f6-88b5-404477a0c606",
+    "data": [
+      {
+        "text": "turn up brightness by ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a52a7bbb-c35b-4425-a078-9bfd5e372cb6",
+    "data": [
+      {
+        "text": "turn up brightness till ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc2779d3-8e38-472e-9c57-af5f1e87f50c",
+    "data": [
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen level up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70bd351f-a05f-4c50-a68a-2a5cc7b080d3",
+    "data": [
+      {
+        "text": "make my ",
+        "userDefined": false
+      },
+      {
+        "text": "PC",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen brighter for ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " percents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d27841af-3530-4d0a-8645-cfe3c546a5d6",
+    "data": [
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f34f457-bc18-4876-9792-4e6ba2475588",
+    "data": [
+      {
+        "text": "laptot",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "userDefined": true
+      },
+      {
+        "text": " up by ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f44250b4-4fe5-4962-ba15-a1a69ea19475",
+    "data": [
+      {
+        "text": "brightness up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9abc111-a8c4-4c51-90fa-8863237df032",
+    "data": [
+      {
+        "text": "brightness up by ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbd50138-c11c-4470-90e3-0fc3af1423a9",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen brightness level up till ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a85c5b33-d405-4ac6-980a-f44c19ff4396",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "brightness level",
+        "userDefined": true
+      },
+      {
+        "text": " up till ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "744ad650-3033-42d4-bb65-a08b1d84ad75",
+    "data": [
+      {
+        "text": "let the brightness go up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b649f645-0534-4498-b498-82f8d4262d78",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " percents brighter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be852b33-89d5-46d2-b8a9-2c110f07256e",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brighter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eed4f34d-55fc-4d98-96b1-8d268eb23b74",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "userDefined": true
+      },
+      {
+        "text": " up till ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5a6ff05-0940-445b-b4eb-b901ec13cbc0",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brighter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "952b5f1b-52c4-4d8a-98e3-9938eafbdb7c",
+    "data": [
+      {
+        "text": "brightness level",
+        "userDefined": true
+      },
+      {
+        "text": " up till ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b146683-4306-4d84-a7a2-689e13aa14e9",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen brightness ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "userDefined": true
+      },
+      {
+        "text": " up till ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "996ae0fd-8027-4dd1-8eb4-8621b51a0dea",
+    "data": [
+      {
+        "text": "turn up ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness by ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "808900d2-002d-42f5-a435-d23032ee7b0e",
+    "data": [
+      {
+        "text": "make ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screen level up by ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c467f942-efdc-44e4-b520-e707374fc654",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness up by ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe62f1dd-3130-4cfb-a05c-0f5158997d6d",
+    "data": [
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness up by ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cd1649e-2cb6-4b12-9fb7-98cf39047d97",
+    "data": [
+      {
+        "text": "turn up ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "computer",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9f11f5-016f-4726-bf83-f3a5c270629f",
+    "data": [
+      {
+        "text": "brightness level",
+        "userDefined": true
+      },
+      {
+        "text": " up by ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2708335-5030-4800-9531-b50a597e9a4f",
+    "data": [
+      {
+        "text": "turn the brightness ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "userDefined": true
+      },
+      {
+        "text": " up by ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fe6bda4-d052-4367-a091-324e5597e1d4",
+    "data": [
+      {
+        "text": "brightness up to ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "final-value",
+        "userDefined": true
+      },
+      {
+        "text": " percents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e701f43a-e281-4157-83b1-64b69c50b2a9",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "TV",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brighter for ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "change-value",
+        "userDefined": true
+      },
+      {
+        "text": " percents",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

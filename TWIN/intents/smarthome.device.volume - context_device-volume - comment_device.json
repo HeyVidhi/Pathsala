@@ -1,0 +1,55 @@
+{
+  "id": "39b64552-39d3-4849-81a3-6d9632b93985",
+  "name": "smarthome.device.volume - context:device-volume - comment:device",
+  "auto": true,
+  "contexts": [
+    "device-volume"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#device-volume.intent_action",
+      "affectedContexts": [
+        {
+          "name": "device-volume",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d5d6236f-2cfc-4f77-9e73-d2176af64066",
+          "name": "device",
+          "required": false,
+          "dataType": "@device-volume",
+          "value": "$device",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

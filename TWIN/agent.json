@@ -1,0 +1,57 @@
+{
+  "description": "TWIN is your virtually real friend who is there to talk to you and solve your issues with intelligence !",
+  "language": "en",
+  "shortDescription": "Control your IoT connected devices",
+  "examples": "User: It\u0027s very hot here.\nUser: Make it 74 degrees in the bathroom at 7 AM.\nUser: Please turn on the TV in the kitchen.\nUser: Turn off all appliances when I leave.\nUser: Start brewing coffee at 6 AM each morning.\nUser: Turn on lights in the bathroom every morning at 6:30.\nUser: Dim all the lights at 11 PM.\nUser: It\u0027s dark in here.\nUser: Romantic lights in the kitchen.\nUser: Lock all windows and doors when no one is home.",
+  "linkToDocs": "",
+  "displayName": "Buddy.",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V1",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "secondaryKey": "03b34bdf526f4fa6836a58c387cbf590",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}

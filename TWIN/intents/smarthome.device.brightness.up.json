@@ -1,0 +1,114 @@
+{
+  "id": "c479bc31-5e2d-43cd-aee5-a0157cea4b29",
+  "name": "smarthome.device.brightness.up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.brightness.up",
+      "affectedContexts": [
+        {
+          "name": "device-brightness",
+          "lifespan": 5,
+          "parameters": {}
+        },
+        {
+          "name": "room",
+          "lifespan": 3,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1cef6c48-efa1-40df-978e-1f67a877039a",
+          "name": "device",
+          "required": false,
+          "dataType": "@device",
+          "value": "$device",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c86a8b1c-6a3d-4e91-976a-e2d34414bf5a",
+          "name": "change-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$change-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b3ffd44b-0925-49fb-a33b-c0a0c4a97293",
+          "name": "final-value",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$final-value",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8f7cb048-5f4f-4d0f-8273-62f812e08d7f",
+          "name": "room",
+          "required": false,
+          "dataType": "@room",
+          "value": "$room",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "40c1ee03-e26a-45cb-bb84-b54d1635cb2a",
+          "name": "all",
+          "required": false,
+          "dataType": "@all",
+          "value": "$all",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

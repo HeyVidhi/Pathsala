@@ -1,0 +1,30 @@
+[
+  {
+    "value": "locked",
+    "synonyms": [
+      "locked",
+      "lock"
+    ]
+  },
+  {
+    "value": "unlocked",
+    "synonyms": [
+      "unlocked",
+      "unlock"
+    ]
+  },
+  {
+    "value": "opened",
+    "synonyms": [
+      "opened",
+      "open"
+    ]
+  },
+  {
+    "value": "closed",
+    "synonyms": [
+      "closed",
+      "close"
+    ]
+  }
+]

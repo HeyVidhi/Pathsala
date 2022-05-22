@@ -1,0 +1,45 @@
+{
+  "id": "f40d631d-8104-413f-acaa-52a26f68246c",
+  "name": "smarthome.device.brightness.up - context:device-brightness - comment:not bright enough",
+  "auto": true,
+  "contexts": [
+    "device-brightness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.device.brightness.up",
+      "affectedContexts": [
+        {
+          "name": "room",
+          "lifespan": 3,
+          "parameters": {}
+        },
+        {
+          "name": "device-brightness",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "value": "front door",
+    "synonyms": [
+      "front door",
+      "front doors"
+    ]
+  },
+  {
+    "value": "lock",
+    "synonyms": [
+      "lock",
+      "locks"
+    ]
+  },
+  {
+    "value": "window",
+    "synonyms": [
+      "window",
+      "windows"
+    ]
+  },
+  {
+    "value": "door",
+    "synonyms": [
+      "door",
+      "door lock",
+      "doors"
+    ]
+  },
+  {
+    "value": "back door",
+    "synonyms": [
+      "back door",
+      "back doors"
+    ]
+  },
+  {
+    "value": "main door",
+    "synonyms": [
+      "main door",
+      "main doors"
+    ]
+  }
+]

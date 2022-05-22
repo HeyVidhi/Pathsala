@@ -1,0 +1,9 @@
+{
+  "id": "3a1b9438-dbe9-49c2-bf25-4b6168159ec4",
+  "name": "recurrence",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "6dba9cd6-c733-4cb3-aba9-4a4657d7b4ad",
+    "data": [
+      {
+        "text": "turn",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "decorations",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " brightness ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everyday",
+        "meta": "@recurrence",
+        "alias": "recurrence",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a451f69-0ba1-47bf-a2ed-4c3370fef57d",
+    "data": [
+      {
+        "text": "dim ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "PC",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " screens ",
+        "userDefined": false
+      },
+      {
+        "text": "at 11 pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e482f0e2-fece-464f-95ba-1e0046635417",
+    "data": [
+      {
+        "text": "dim ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "decorations",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "when",
+        "userDefined": true
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "leave",
+        "meta": "@condition",
+        "alias": "condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "748158fd-8402-4f6c-986b-3920b310e4a0",
+    "data": [
+      {
+        "text": "turn the ",
+        "userDefined": false
+      },
+      {
+        "text": "decorations",
+        "meta": "@device",
+        "alias": "device",
+        "userDefined": true
+      },
+      {
+        "text": " down at ",
+        "userDefined": false
+      },
+      {
+        "text": "midnight",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
